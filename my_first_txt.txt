@@ -1,3 +1,5 @@
-My first text file
+My first text file.
 
-More message
+More message.
+
+One more message.
